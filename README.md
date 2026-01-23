@@ -5,10 +5,10 @@ What Earth observation satellite launches happened on a specific day?
 
 | Day | Year | Event | Notes |
 | --- | --- | --- | --- |
-| **22 January** | 1975 | Launch: **Landsat-2** satellite (NASA, USGS) | ** |
-| **3 February** | 2005 | Establishment of the **SERVIR** program as the *Regional Visualization & Monitoring System* for Mesoamerica | ** |
-| **8 February** | 2024 | Launch: **PACE** satellite (NASA) | ** |
-| **11 February** | 2013 | Launch: **Landsat-8** satellite (NASA) | ** |
+| **22 Jan.** | 1975 | Launch: **Landsat-2** satellite (NASA, USGS) | ** |
+| **3 Feb.** | 2005 | Establishment of the **SERVIR** program as the *Regional Visualization & Monitoring System* for Mesoamerica | ** |
+| **8 Feb.** | 2024 | Launch: **PACE** satellite (NASA) | ** |
+| **11 Feb.** | 2013 | Launch: **Landsat-8** satellite (NASA) | ** |
 | **1 March** | 1984 | Launch: **Landsat-5** satellite (NASA, USGS) | ** |
 | **5 March** | 1978 | Launch: **Landsat-3** satellite (NASA, USGS) | ** |
 | **15 April** | 1999 | Launch: **Landsat-7** satellite (NASA, USGS) | ** |
@@ -19,8 +19,8 @@ What Earth observation satellite launches happened on a specific day?
 | **23 July** | 1972 | Launch: **Landsat-1** satellite (NASA, USGS) | ** |
 | **24 Sept.** | 1999 | Launch: **IKONOS-2** satellite (Space Imaging) | ** |
 | **27 Sept.** | 2021 | Launch: **Landsat-9** satellite (NASA, USGS) | ** |
-| **5 October** | 1993 | Launch (failure): **Landsat-6** satellite (NASA, USGS) | ** |
-| **5 December** | 2018 | Launch: **GEDI** instrument (NASA) | ** |
+| **5 Oct.** | 1993 | Launch (failure): **Landsat-6** satellite (NASA, USGS) | ** |
+| **5 Dec.** | 2018 | Launch: **GEDI** instrument (NASA) | ** |
 | **6 Dec.** | 2024 | Establishment of the **SERVIR-Central America** program (*SERVIR Centroamérica*) | ** |
 | **10 Dec.** | 1998 | Signing of **NASA-CCAD** Memorandum of Understanding | ** |
 | **18 Dec.** | 1999 | Launch: **Terra** satellite (NASA)  | ** |
