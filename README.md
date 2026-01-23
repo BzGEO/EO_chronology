@@ -7,8 +7,8 @@ What Earth observation satellite launches happened on a specific day?
 
 | Date | Year | Event | Multi | Hyper | Thermal | SAR | LiDAR | Notes | More info |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **12 Jan.** | 2003 | Launch: **ICESat** satellite (NASA) | | | | | x | ** | [link](https://earth.gsfc.nasa.gov/cryo/missions/icesat) |
-| **22 Jan.** | 1975 | Launch: **Landsat-2** satellite (NASA, USGS) | x | | | |  | *It operated until 2006.* | [link]() |
+| **12 Jan.** | 2003 | Launch: **ICESat** satellite (NASA) | | | | | x | *It operated until 2006.* | [link](https://earth.gsfc.nasa.gov/cryo/missions/icesat) |
+| **22 Jan.** | 1975 | Launch: **Landsat-2** satellite (NASA, USGS) | x | | | |  | ** | [link]() |
 | **8 Feb.** | 2024 | Launch: **PACE** satellite (NASA) | | x | | |  | ** | [link]() |
 | **11 Feb.** | 2000 | Start: **SRTM** mission (NASA, DLR) | | | | x |  | *data collection was from 11-22 Feb. 2000* | [link]() |
 | **11 Feb.** | 2013 | Launch: **Landsat-8** satellite (NASA) | x | | x | |  | ** | [link]() |
