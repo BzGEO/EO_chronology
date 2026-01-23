@@ -17,7 +17,7 @@ What Earth observation satellite launches happened on a specific day?
 | **7 March** | 2015 | Launch: **Sentinel-2B** satellite (Copernicus) | ** | [link]() |
 | **3 April** | 2014 | Launch: **Sentinel-1A** satellite (Copernicus) | ** | [link]() |
 | **15 April** | 1999 | Launch: **Landsat-7** satellite (NASA, USGS) | ** | [link]() |
-| **25 April** | 2016 | Launch: **Sentinel-1B** satellite (Copernicus) | *The mission suffered an anomaly in Dec. 2021 and was decomissioned in Aug. 2022.* | [news release](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Mission_ends_for_Copernicus_Sentinel-1B_satellite) |
+| **25 April** | 2016 | Launch: **Sentinel-1B** satellite (Copernicus) | *Five and a half years in, the mission suffered an anomaly in Dec. 2021 and was decomissioned in Aug. 2022.* | [news release](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Mission_ends_for_Copernicus_Sentinel-1B_satellite) |
 | **27 April** | 1999 | Launch failure: **IKONOS-1** satellite (Space Imaging) | ** | [link]() |
 | **29 April** | 2025 | Launch: **Biomass** satellite (ESA) | ** | [video](https://youtu.be/bnNrcZbm-Yc) |
 | **4 May** | 2002 | Launch: **Aqua** satellite (NASA) | ** | [link]() |
@@ -58,3 +58,4 @@ What Earth observation satellite launches happened on a specific day?
 | **2 Dec.** | 2010 | **Google Earth Engine** platform officially launched (Google) | *launched during the UNFCCC's COP-16 event in Cancun, Mexico* | [link](https://techcrunch.com/2010/12/02/google-earth-engine-launch/) |
 | **6 Dec.** | 2024 | Establishment of the **SERVIR-Central America** program (*SERVIR Centroamérica*) | ** | [video](https://youtu.be/-VaCNjoA00o) |
 | **10 Dec.** | 1998 | Signing of **NASA-CCAD** Memorandum of Understanding | ** | [link]() |
+| **** |  |  | ** |  |
