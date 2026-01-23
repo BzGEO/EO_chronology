@@ -3,6 +3,8 @@ What Earth observation satellite launches happened on a specific day?
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bzgeo.EO_satellites_OTD)
 
+## Table 1: Various noteworthy events in Earth observations
+
 | Date | Year | Event | Notes | More info |
 | --- | --- | --- | --- | --- |
 | **12 Jan.** | 2003 | Launch: **ICESat** satellite (NASA) | ** | https://earth.gsfc.nasa.gov/cryo/missions/icesat |
