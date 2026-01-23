@@ -8,7 +8,7 @@ What Earth observation satellite launches happened on a specific day?
 | Date | Year | Event | Notes | More info |
 | --- | --- | --- | --- | --- |
 | **12 Jan.** | 2003 | Launch: **ICESat** satellite (NASA) | ** | [link](https://earth.gsfc.nasa.gov/cryo/missions/icesat) |
-| **22 Jan.** | 1975 | Launch: **Landsat-2** satellite (NASA, USGS) | ** | [link]() |
+| **22 Jan.** | 1975 | Launch: **Landsat-2** satellite (NASA, USGS) | *It operated until 2006.* | [link]() |
 | **8 Feb.** | 2024 | Launch: **PACE** satellite (NASA) | ** | [link]() |
 | **11 Feb.** | 2000 | Start: **SRTM** mission (NASA, DLR) | *data collection was from 11-22 Feb. 2000* | [link]() |
 | **11 Feb.** | 2013 | Launch: **Landsat-8** satellite (NASA) | ** | [link]() |
@@ -17,7 +17,7 @@ What Earth observation satellite launches happened on a specific day?
 | **7 March** | 2015 | Launch: **Sentinel-2B** satellite (Copernicus) | ** | [link]() |
 | **3 April** | 2014 | Launch: **Sentinel-1A** satellite (Copernicus) | ** | [link]() |
 | **15 April** | 1999 | Launch: **Landsat-7** satellite (NASA, USGS) | ** | [link]() |
-| **25 April** | 2016 | Launch: **Sentinel-1B** satellite (Copernicus) | ** | [link]() |
+| **25 April** | 2016 | Launch: **Sentinel-1B** satellite (Copernicus) | *The mission suffered an anomaly in Dec. 2021 and was decomissioned in Aug. 2022.* | [news release](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Mission_ends_for_Copernicus_Sentinel-1B_satellite) |
 | **27 April** | 1999 | Launch failure: **IKONOS-1** satellite (Space Imaging) | ** | [link]() |
 | **29 April** | 2025 | Launch: **Biomass** satellite (ESA) | ** | [video](https://youtu.be/bnNrcZbm-Yc) |
 | **4 May** | 2002 | Launch: **Aqua** satellite (NASA) | ** | [link]() |
