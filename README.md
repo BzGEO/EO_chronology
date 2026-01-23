@@ -19,6 +19,7 @@ What Earth observation satellite launches happened on a specific day?
 | **4 May** | 2002 | Launch: **Aqua** satellite (NASA) | ** |
 | **23 June** | 2015 | Launch: **Sentinel-2A** satellite (Copernicus) | ** |
 | **14 July** | 2014 | Establishment of the **SERVIR-West Africa** program (*SERVIR Afrique de l'Ouest*) | ** |
+| **14 July** | 2022 | Launch: **EMIT** instrument (NASA) | ** |
 | **16 July** | 1982 | Launch: **Landsat-4** satellite (NASA, USGS) | ** |
 | **23 July** | 1972 | Launch: **Landsat-1** satellite (NASA, USGS) | ** |
 | **29 Aug.** | 2008 | Launch: **RapidEye** satellite constellation (RapidEye AG) | ** |
