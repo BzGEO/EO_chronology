@@ -14,6 +14,7 @@ What Earth observation satellite launches happened on a specific day?
 | **1 March** | 1984 | Launch: **Landsat-5** satellite (NASA, USGS) | ** |  |
 | **5 March** | 1978 | Launch: **Landsat-3** satellite (NASA, USGS) | ** |  |
 | **7 March** | 2015 | Launch: **Sentinel-2B** satellite (Copernicus) | ** |  |
+| **20 March** | 2019 | Signing of **NASA-SICA** Joint Statement | ** |  |
 | **3 April** | 2014 | Launch: **Sentinel-1A** satellite (Copernicus) | ** |  |
 | **15 April** | 1999 | Launch: **Landsat-7** satellite (NASA, USGS) | ** |  |
 | **25 April** | 2016 | Launch: **Sentinel-1B** satellite (Copernicus) | ** |  |
