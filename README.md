@@ -24,6 +24,7 @@ What Earth observation satellite launches happened on a specific day?
 | **29 April** | 2025 | Launch: **Biomass** satellite (ESA) | ** | [video](https://youtu.be/bnNrcZbm-Yc) |
 | **4 May** | 2002 | Launch: **Aqua** satellite (NASA) | ** | [link]() |
 | **23 June** | 2015 | Launch: **Sentinel-2A** satellite (Copernicus) | ** | [link]() |
+| **28 June** | 2005 | **Google Earth** software launches | ** | [link]() |
 | **14 July** | 2014 | Establishment of the **SERVIR-West Africa** program (*SERVIR Afrique de l'Ouest*) | ** | [link]() |
 | **14 July** | 2022 | Launch: **EMIT** instrument (NASA) | ** | [link]() |
 | **16 July** | 1982 | Launch: **Landsat-4** satellite (NASA, USGS) | ** | [link]() |
@@ -37,6 +38,7 @@ What Earth observation satellite launches happened on a specific day?
 | **24 Sept.** | 1999 | Launch: **IKONOS-2** satellite (Space Imaging) | ** | [link]() |
 | **24 Sept.** | 2014 | **SRTM** 30m data (NASA) starts being released | *previously, only 90m data were public* | [link]() |
 | **27 Sept.** | 2021 | Launch: **Landsat-9** satellite (NASA, USGS) | ** | [video](https://youtu.be/OhUOmNTUO9I) |
+| **30 Sept.** | 2025 | The **SERVIR** program officially ceases operations | ** | [link]() |
 | **5 Oct.** | 1993 | Launch failure: **Landsat-6** satellite (NASA, USGS) | ** | [link]() |
 | **18 Oct.** | 2001 | Launch: **QuickBird-2** satellite (DigitalGlobe) | ** | [link]() |
 | **28 Oct.** | 2011 | Launch: **Suomi NPP** satellite (NASA, NOAA, DoD) | ** | [link]() |
