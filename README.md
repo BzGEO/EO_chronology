@@ -44,7 +44,6 @@ What Earth observation satellite launches happened on a specific day?
 | **18 Dec.** | 1999 | Launch: **Terra** satellite (NASA)  | x | | x | |  | ** | [link]() |
 | **** |  |   | | | | | | ** |  |
 
-
 ## Table 2: Various other noteworthy events in Earth observations
 
 | Date | Year | Event | Notes | More info |
