@@ -24,7 +24,7 @@
 | **29 April** | 2025 | Launch: **Biomass** satellite (ESA) | | | | x |  | ** | [video](https://youtu.be/bnNrcZbm-Yc) |
 | **4 May** | 2002 | Launch: **Aqua** satellite (NASA) | x | | x | |  | ** | [link]() |
 | **23 June** | 2015 | Launch: **Sentinel-2A** satellite (Copernicus) | x | | | |  | ** | [link]() |
-| **14 July** | 2022 | Launch: **EMIT** instrument (NASA) | | x | | |  | ** | [link]() |
+| **14 July** | 2022 | Launch: **EMIT** instrument (NASA) | | x | | |  | ** | [link](https://www.earthdata.nasa.gov/news/emit-launched-international-space-station) |
 | **16 July** | 1982 | Launch: **Landsat-4** satellite (NASA, USGS) | x | | x | |  | ** | [link]() |
 | **30 July** | 2025 | Launch: **NISAR** satellite (NASA, ISRO) | | | | x |  | ** | [video](https://youtu.be/waTmU9hyOqo) |
 | **23 July** | 1972 | Launch: **Landsat-1** satellite (NASA, USGS) | x | | | |  | ** | [link]() |
