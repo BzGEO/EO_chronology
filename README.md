@@ -18,7 +18,7 @@
 | **5 March** | 1978 | Launch: **Landsat-3** satellite (NASA, USGS) | x | | | |  | ** | [link]() |
 | **7 March** | 2015 | Launch: **Sentinel-2B** satellite (Copernicus) | x | | | |  | ** | [link]() |
 | **3 April** | 2014 | Launch: **Sentinel-1A** satellite (Copernicus) | | | | x |  | ** | [video](https://www.esa.int/ESA_Multimedia/Videos/2014/04/Sentinel-1A_launch_full_replay) |
-| **15 April** | 1999 | Launch: **Landsat-7** satellite (NASA, USGS) | x | | x | |  | *Decommissioned on 04.06.2025* | [link](https://www.usgs.gov/news/national-news-release/end-era-landsat-7-decommissioned-after-25-years-earth-observation) |
+| **15 April** | 1999 | Launch: **Landsat-7** satellite (NASA, USGS) | x | | x | |  | *Decommissioned on 04.06.2025* | [news release](https://www.usgs.gov/news/national-news-release/end-era-landsat-7-decommissioned-after-25-years-earth-observation) |
 | **25 April** | 2016 | Launch: **Sentinel-1B** satellite (Copernicus) | | | | x |  | *Five and a half years in, the mission suffered an anomaly in Dec. 2021 and was decomissioned in Aug. 2022.* | [news release](https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-1/Mission_ends_for_Copernicus_Sentinel-1B_satellite) |
 | **27 April** | 1999 | Launch failure: **IKONOS-1** satellite (Space Imaging) | x | | | |  | ** | [link](https://spacedaily.com/ikonos1-lost-in-space/) |
 | **29 April** | 2025 | Launch: **Biomass** satellite (ESA) | | | | x |  | ** | [video](https://youtu.be/bnNrcZbm-Yc) |
