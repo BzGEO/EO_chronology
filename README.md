@@ -1,5 +1,7 @@
-# EO_satellites_OTD
-What Earth observation satellite launches happened on a specific day?
+# On This Day (OTD) for Earth Observation (EO) satellites
+
+> [!IMPORTANT]
+> ***Which Earth observation satellite launches happened on a specific day?*** 🤔
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bzgeo.EO_satellites_OTD)
 
