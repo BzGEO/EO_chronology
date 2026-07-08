@@ -5,7 +5,8 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bzgeo.EO_satellites_OTD)
 
-## Table 1: Earth observation satellite launches, failures, and data collection events
+## Table 1.
+Earth observation satellite launches, failures, and data collection events
 
 | Date | Year | Event | Multi | Hyper | Thermal | SAR | LiDAR | Notes | More info |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -47,7 +48,8 @@
 | **18 Dec.** | 1999 | Launch: **Terra** satellite (NASA)  | x | | x | |  | ** | [link]() |
 | **** |  |   | | | | | | ** |  |
 
-## Table 2: Various other noteworthy events in Earth observations
+## Table 2.
+Various other noteworthy events in Earth observations
 
 | Date | Year | Event | Notes | More info |
 | --- | --- | --- | --- | --- |
